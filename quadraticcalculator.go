@@ -1,6 +1,6 @@
 /**
 
-This code is for quadratic calculator
+This code is for a quadratic calculator
 using Golang
 **/
 
